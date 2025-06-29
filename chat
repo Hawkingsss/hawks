@@ -1,0 +1,6 @@
+rules:
+  - DOMAIN-SUFFIX,chaturbate.com,手动选择
+  - DOMAIN-SUFFIX,chaturbate.cam,手动选择
+  - DOMAIN-KEYWORD,chaturbate,手动选择
+  - DOMAIN-SUFFIX,live.mmcdn.com,手动选择
+  - DOMAIN-KEYWORD,mmcdn,手动选择
