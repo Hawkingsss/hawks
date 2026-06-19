@@ -1,0 +1,24 @@
+payload:
+  - DOMAIN-SUFFIX,mujoy.aihelp.net.cn
+  - DOMAIN-SUFFIX,jjotfn.cn
+  - DOMAIN-SUFFIX,thjfcs.cn
+  - DOMAIN-SUFFIX,tgjpcn.cn
+  - DOMAIN-SUFFIX,cxzote.cn
+  - DOMAIN-SUFFIX,zehalj.cn
+  - DOMAIN-SUFFIX,dkmdji.cn
+  - DOMAIN-SUFFIX,keawfaj.cn
+  - DOMAIN-SUFFIX,bvrajto.cn
+  - DOMAIN-SUFFIX,zhixunkeji.xyz
+  - DOMAIN-SUFFIX,hngfbd.com
+  - DOMAIN-SUFFIX,ltpyhid.cn
+  - DOMAIN-SUFFIX,doudou520.online
+  - DOMAIN-SUFFIX,missav.ai
+  - DOMAIN-SUFFIX,lnodhy.cn
+
+# [3] 正则表达式匹配 (DOMAIN-REGEX)
+# 对应 JSON 中的 domain_regex
+  - DOMAIN-REGEX,^pic\..+\.cn$
+  - DOMAIN-REGEX,^tp\d+\..+\.cn$
+  - DOMAIN-REGEX,^hlsapp\..+\.cn$
+
+
