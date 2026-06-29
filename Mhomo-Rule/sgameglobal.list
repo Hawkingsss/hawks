@@ -1,3 +1,7 @@
+#DOMAIN-SUFFIX,galileotelemetry.tencent.com
+*DOMAIN-SUFFIX,tux.qq.com
+*DOMAIN-SUFFIX,listdl.com
+*DOMAIN-SUFFIX,onezapp.com
 DOMAIN-SUFFIX,hok-dr.intlgame.com
 DOMAIN-SUFFIX,honorofkings.com
 DOMAIN-SUFFIX,levelinfinite.com
@@ -6,5 +10,12 @@ DOMAIN-SUFFIX,intlgame.com
 DOMAIN-SUFFIX,sgameglobal.com
 DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN-KEYWORD,sgameglobal.com
-IP-CIDR,183.192.0.0/16
-IP-CIDR,43.132.55.55/16
+IP-CIDR,43.129.0.0/16,no-resolve
+IP-CIDR,43.132.0.0/16,no-resolve
+IP-CIDR,43.134.0.0/16,no-resolve
+IP-CIDR,43.153.0.0/16,no-resolve
+IP-CIDR,43.159.0.0/16,no-resolve
+IP-CIDR,43.175.0.0/16,no-resolve
+IP-CIDR,101.32.0.0/16,no-resolve
+IP-CIDR,162.62.0.0/16,no-resolve
+IP-CIDR,183.192.0.0/16,no-resolve
