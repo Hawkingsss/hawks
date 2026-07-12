@@ -1,4 +1,3 @@
-# NAME: webrtc
 payload:
   - DOMAIN-SUFFIX,stun.l.google.com
   - DOMAIN-SUFFIX,stun1.l.google.com
