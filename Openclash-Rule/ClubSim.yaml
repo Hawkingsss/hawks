@@ -1,2 +1,5 @@
 payload:
-  - DOMAIN-SUFFIX,csl.prod.ondemandconnectivity.com
+  - DOMAIN-SUFFIX,epdg.epc.mnc000.mcc454.pub.3gppnetwork.org,HK
+  - DOMAIN-SUFFIX,ims.mnc000.mcc454.3gppnetwork.org,HK
+  - DOMAIN-SUFFIX,pub.3gppnetwork.org,HK
+  - DOMAIN-SUFFIX,csl.prod.ondemandconnectivity.com,HK
